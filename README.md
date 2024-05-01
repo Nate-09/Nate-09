@@ -14,7 +14,7 @@ Cyber Security Specialist with over 10+ years of experience in the information t
 
 * 🌍  I'm based in Australia.
 * 🔭  I’m currently studing a few different cyber security courses and certifications, as I progress I'll start to share some of the walkthroughs I've written for places like [HTB](https://hackthebox.com).
-* 🌱  I enjoy container configuration and management within my homr lab.
+* 🌱  I enjoy container configuration and management within my home lab.
 * ⚡  Fun fact: Besides being an IT/CyberSec Nerd, I enjoy video gaming, snowboarding and wakeboarding!
 
 ### Skills
