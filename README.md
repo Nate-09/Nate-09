@@ -81,8 +81,8 @@ Cyber Security Specialist with over 10+ years of experience in the information t
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=duc243&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc243&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nate-09&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-09&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 ## 🎮 When I'm AFK:
