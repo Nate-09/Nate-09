@@ -82,6 +82,7 @@ Cyber Security Specialist with over 10+ years of experience in the information t
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nate-09&show_icons=true&count_private=true&theme=dark" />&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-09&hide_progress=true&theme=dark" />&nbsp;
 </p>
 
 ## 🎮 When I'm AFK:
